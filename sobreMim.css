@@ -47,7 +47,7 @@
 }
 
 .sobre-icon.github {
-  background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg');
+  background-image: url('github-icon-2.svg');
 }
 
 .sobre-icon.ts {
@@ -778,4 +778,13 @@ h6 {
   gap: 0.7rem;
   margin-bottom: 0.7rem;
   font-size: 1.1rem;
+}
+.sobre-redes-link {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  transition: color 0.2s;
 }
