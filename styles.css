@@ -396,6 +396,7 @@ a:hover {
 }
 
 @media (max-width: 700px) {
+
   .container {
     padding: 30px 10px 0 10px;
   }

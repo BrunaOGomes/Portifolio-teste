@@ -10,13 +10,14 @@
   margin-bottom: 2.5rem;
   color: #eaf1fb;
   margin-left: 4rem;
+  margin-left: 10%;
 }
 .cursos-grid {
   display:flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-top: 5%;
+  padding-top: 3%;
  gap: 3rem 3rem;
 }
 .curso-card {
@@ -110,6 +111,7 @@
   object-fit: contain;
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(20, 68, 128, 0.10);
+  padding-right: 25px;
 }
 @media (max-width: 900px) {
   .cursos-grid {
