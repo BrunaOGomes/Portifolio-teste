@@ -625,6 +625,7 @@ h6 {
 .sobre-col.sobre-ferramentas {
   grid-column: 2;
   grid-row: 1;
+  padding-left: 35rem;
 }
 
 .sobre-col.sobre-contato {
@@ -643,9 +644,10 @@ h6 {
 }
 
 .custom-title {
-  font-size: 2.7rem;
+  font-size: 6.7rem;
   font-weight: bold;
   color: #fff;
+  margin-top: 9rem;
   margin-bottom: 1.2rem;
   font-family: inherit;
 }
@@ -700,13 +702,6 @@ h6 {
   word-break: break-word;
 }
 
-.custom-title {
-  font-size: 2.7rem;
-  font-weight: bold;
-  color: #fff;
-  margin-bottom: 1.2rem;
-  font-family: inherit;
-}
 
 .sobre-col {
   background: none;
@@ -758,13 +753,7 @@ h6 {
   word-break: break-word;
 }
 
-.custom-title {
-  font-size: 2.7rem;
-  font-weight: bold;
-  color: #fff;
-  margin-bottom: 1.2rem;
-  font-family: inherit;
-}
+ 
 
 .sobre-col {
   background: none;
@@ -816,15 +805,7 @@ h6 {
   word-break: break-word;
 }
 
-.custom-title {
-  font-size: 2.7rem;
-  font-weight: bold;
-  color: #fff;
-  margin-bottom: 1.2rem;
-  font-family: inherit;
-  padding-top: 6rem;
-  padding-left: 15rem;
-}
+ 
 
 .sobre-col {
   background: none;
@@ -844,16 +825,10 @@ h6 {
   min-width: 0;
   word-break: break-word;
 }
-.custom-title {
-  font-size: 3.7rem;
-  font-weight: bold;
-  color: #fff;
-  margin-bottom: 1.2rem;
-  font-family: inherit;
-}
+
 .sobre-pre {
   margin-top: 0.5rem;
-  font-size: 3.0rem;
+  font-size: 4.0rem;
   margin-left: 1%;
   color: #b3b9c5;
   margin-bottom: 0.2em;
@@ -904,7 +879,7 @@ h6 {
 .sobre-redes-link{
   color: #ffffff;
   text-decoration: none;
-  font-size: 2.1rem;
+  font-size: 3.1rem;
   font-family: inherit;
   font-weight: 500;
   letter-spacing: 0.05em;

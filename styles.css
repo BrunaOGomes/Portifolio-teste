@@ -29,7 +29,7 @@
 .main-image-wrapper .custom-side-image {
   align-self: center;
   max-width: 600px;
-  max-height: 600px;
+  max-height: 700px;
   height: 900px;
   object-fit: cover;
 }
@@ -128,12 +128,12 @@ body {
   align-items: flex-start;
 }
 .custom-intro {
-  font-size: 3.7rem;
+  font-size: 4.7rem;
   color: #b3b9c5;
   margin-bottom: 1.2rem;
 }
 .custom-title {
-  font-size: 7.9rem;
+  font-size: 9.9rem;
   font-weight: bold;
   color: #fff;
   margin-bottom: 1.2rem;
@@ -153,14 +153,15 @@ body {
 }
 .custom-list-icon {
   color: #6c7ae0;
-  font-size: 4.3rem;
+  font-size: 5.3rem;
   margin-right: 0.5rem;
 }
 .custom-list-blue {
   color: #6c7ae0;
+  font-size: 4.6rem;
 }
 .custom-desc {
-  font-size: 2.1rem;
+  font-size: 2.8rem;
   color: #b3b9c5;
   margin-bottom: 0.2em;
   font-family: inherit;
@@ -172,7 +173,7 @@ body {
   padding: 0.7em 1.2em;
   border-radius: 6px;
   margin-top: 1.2em;
-  font-size: 2rem;
+  font-size: 2.1rem;
   margin-bottom: 2em;
   overflow-x: auto;
 }
@@ -201,7 +202,7 @@ body {
 }
 .custom-footer-text {
   color: #b3b9c5;
-  font-size: 2.1rem;
+  font-size: 3.1rem;
   font-family: inherit;
   margin-right: 1.2rem;
 }
@@ -396,7 +397,6 @@ a:hover {
 }
 
 @media (max-width: 700px) {
-
   .container {
     padding: 30px 10px 0 10px;
   }
